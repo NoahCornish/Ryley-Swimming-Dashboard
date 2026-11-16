@@ -1,0 +1,16 @@
+
+# macOS
+.DS_Store
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+*.tmp
+*.log
+
+# Local backups
+*.bak
